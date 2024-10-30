@@ -1,0 +1,21 @@
+/* Some additional styles
+ * Themes:
+ * twenty twelve; Customizr, Graphy
+ */
+ 
+.site {
+		border-radius:2px;
+		}
+	
+.nav-menu,.post {
+		border-radius:4px;
+	}
+.site-content article, .tc-content  {
+		padding: 10px;
+		border: none;
+	}
+.nav-menu ul,.main-navigation div.nav-menu > ul {
+		padding-left:10px;
+		border: none;
+	} 
+	
